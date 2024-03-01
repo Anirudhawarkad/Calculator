@@ -1,1 +1,1 @@
-calculator using Netbeans
+Calculator using Netbeans
